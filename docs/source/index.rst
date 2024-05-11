@@ -1,8 +1,8 @@
 Welcome to the GRaM tutorial track!
 ===================================
 
-In addition to a proceeding track and a blogpost track, the GRaM workshop aims to host tutorials in a form of a Jupyter notebooks. 
-Check out the :doc:`submission` section for further information, including the :ref:`guidelines`.
+In addition to a proceeding track and a blogpost track, the `GRaM workshop <https://gram-workshop.github.io/>` aims to host tutorials in a form of a Jupyter notebooks. 
+Check out the :doc:`instructions` section for further information.
 
 .. note::
 
@@ -14,3 +14,4 @@ Contents
 .. toctree::
 
    submission
+   notebooks/template

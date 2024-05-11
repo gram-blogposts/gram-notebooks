@@ -2,9 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'GRAM Notebooks'
+author = 'GRAM Team'
 
 release = '0.1'
 version = '0.1.0'
@@ -17,6 +16,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'nbsphinx',
 ]
 
 intersphinx_mapping = {
