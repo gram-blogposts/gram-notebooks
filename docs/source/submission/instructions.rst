@@ -3,7 +3,7 @@ Submitting your notebook
 
 If you have a notebook that you would like to submit to the repository, please follow the steps below.
 
-Clone or Fork the Repository
+Fork the Repository
 ----------------------------
 
 First, you need to have a copy of the repository under your GitHub account. We trust the reviewers to not pay attention to the author of the PR, but to the content of the PR.
@@ -58,3 +58,9 @@ Link your Pull Request to OpenReview
 ----------------------
 
 Once you have submitted your pull request, you can use the URL to submit it to the OpenReview platform. 
+
+Additional Information
+----------------------
+
+You can also submit your work as a Google Collab notebook. In that case, create a short jupyter notebook and link your Collab notebook in your `.ipynb` file. 
+If you have any questions, feel free to reach out at: `organizers AT gram-workshop DOT org <organizers@gram-workshop.org>`_.
