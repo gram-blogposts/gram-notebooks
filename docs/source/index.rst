@@ -12,7 +12,14 @@ Contents
 --------
 
 .. toctree::
+   :caption: Submission
    :maxdepth: 2
 
-   submission
+   submission/instructions
+
+.. toctree::
+   :caption: Notebooks
+   :maxdepth: 2
+
    notebooks/template
+ 
