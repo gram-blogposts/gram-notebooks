@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to the GRaM tutorial track!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+In addition to a proceeding track and a blogpost track, the GRaM workshop aims to host tutorials in a form of a Jupyter notebooks. 
+Check out the :doc:`submission` section for further information, including the :ref:`guidelines`.
 
 .. note::
 
-   This project is under active development.
+   The deadline for submitting your work to the tutorial track is the 24/05/2024 AOE.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   submission
