@@ -19,7 +19,7 @@ Contents
 
 .. toctree::
    :caption: Notebooks
-   :maxdepth: 2
+   :maxdepth: 1
 
    notebooks/template
  
