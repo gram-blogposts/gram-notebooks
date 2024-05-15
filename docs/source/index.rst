@@ -4,9 +4,6 @@ Welcome to the GRaM tutorial track!
 In addition to a proceeding track and a blogpost track, the `GRaM workshop <https://gram-workshop.github.io/>`_ aims to host tutorials in the form of Jupyter notebooks, or Google Collab. 
 Check out the :doc:`instructions` section for further information.
 
-.. note::
-
-   The deadline for submitting your work to the tutorial track is the 24/05/2024 AOE.
 
 Contents
 --------
