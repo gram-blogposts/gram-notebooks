@@ -54,10 +54,10 @@ Create a Pull Request
 5. Enter a title and description for your pull request.
 6. Click **Create pull request**.
 
-Link your Pull Request to OpenReview
+Fill out our Google Form
 ----------------------
 
-Once you have submitted your pull request, you can use the URL to submit it to the OpenReview platform. 
+Once you have submitted your pull request, please fill out our Google Form: https://forms.gle/pMmPvAqCvVTQP6eo6. 
 
 Additional Information
 ----------------------
