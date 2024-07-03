@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+GRAM notebooks staging repo 
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository is a staging area for the GRAM notebooks.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Read the instructions here:
+https://gram-notebooks.readthedocs.io/en/latest/ 
