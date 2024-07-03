@@ -10,7 +10,7 @@ First, you need to have a copy of the repository under your GitHub account. We t
 You can achieve this by forking the repository.
 
 **Fork the Repository** 
-  1. Go to our `GitHub repository <https://github.com/gram-blogposts/gram-notebooks>`.
+  1. Go to our GitHub repository: <https://github.com/gram-blogposts/gram-notebooks>.
   2. Click on the **Fork** button, usually found at the top right of the page. This creates a copy of the repository in your GitHub account.
 
 
@@ -28,7 +28,7 @@ Replace ``your-branch-name`` with a name relevant to the notebook you are submit
 Make Your Changes
 -----------------
 
-Add your notebook under the ``notebooks`` `folder <https://github.com/gram-blogposts/gram-notebooks/tree/main/docs/source/notebooks>`. After making changes, stage and commit them:
+Add your notebook under the ``notebooks`` folder. After making changes, stage and commit them:
 
 .. code-block:: bash
 
