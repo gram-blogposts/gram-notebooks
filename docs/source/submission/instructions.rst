@@ -10,7 +10,7 @@ First, you need to have a copy of the repository under your GitHub account. We t
 You can achieve this by forking the repository.
 
 **Fork the Repository** 
-  1. Go to our `GitHub repository <https://github.com/gram-blogposts/gram-notebooks>_`.
+  1. Go to our `GitHub repository <https://github.com/gram-blogposts/gram-notebooks>`_.
   2. Click on the **Fork** button, usually found at the top right of the page. This creates a copy of the repository in your GitHub account.
 
 
