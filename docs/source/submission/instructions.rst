@@ -28,7 +28,7 @@ Replace ``your-branch-name`` with a name relevant to the notebook you are submit
 Make Your Changes
 -----------------
 
-Add your notebook under the ``notebooks`` folder. After making changes, stage and commit them:
+Add your notebook under the ``docs/source/notebooks`` `folder <https://github.com/gram-blogposts/gram-notebooks/tree/main/docs/source/notebooks>`_. Do not modify or delete the ``template.ipynb`` file. After making changes, stage and commit them:
 
 .. code-block:: bash
 
